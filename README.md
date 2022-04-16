@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Efosa42
-- 👀 I’m interested in Web Developing
+- I’m interested in Web Developing
 
 
 <!---
